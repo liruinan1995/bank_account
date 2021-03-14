@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "poup0s0v+tdHqduqyN/q9s4n2dqp8i5btUu8GSQR37Pn7W3XPVIgiytJJbDXS06b//oZj3ySCcOpOQRBf2Jbig==",
+  "dgSpecHash": "Vg1csN714sfnaSu7F5+xsWuv2GNzSC+yu7AMmk0Ti6WiXLyQ8EhsKe5B/GLXGyiBzoYriBD2/bJjPlHOtMWIQQ==",
   "success": true,
-  "projectFilePath": "/Users/liruinan/code/game/classes/Classes.csproj",
+  "projectFilePath": "/Users/liruinan/code/game/bank_account/Classes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
