@@ -1,0 +1,15 @@
+/Users/liruinan/code/game/classes/bin/Debug/net5.0/Classes.deps.json
+/Users/liruinan/code/game/classes/bin/Debug/net5.0/Classes.runtimeconfig.json
+/Users/liruinan/code/game/classes/bin/Debug/net5.0/Classes.runtimeconfig.dev.json
+/Users/liruinan/code/game/classes/bin/Debug/net5.0/Classes.dll
+/Users/liruinan/code/game/classes/bin/Debug/net5.0/ref/Classes.dll
+/Users/liruinan/code/game/classes/bin/Debug/net5.0/Classes.pdb
+/Users/liruinan/code/game/classes/obj/Debug/net5.0/Classes.csprojAssemblyReference.cache
+/Users/liruinan/code/game/classes/obj/Debug/net5.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liruinan/code/game/classes/obj/Debug/net5.0/Classes.AssemblyInfoInputs.cache
+/Users/liruinan/code/game/classes/obj/Debug/net5.0/Classes.AssemblyInfo.cs
+/Users/liruinan/code/game/classes/obj/Debug/net5.0/Classes.csproj.CoreCompileInputs.cache
+/Users/liruinan/code/game/classes/obj/Debug/net5.0/Classes.dll
+/Users/liruinan/code/game/classes/obj/Debug/net5.0/ref/Classes.dll
+/Users/liruinan/code/game/classes/obj/Debug/net5.0/Classes.pdb
+/Users/liruinan/code/game/classes/obj/Debug/net5.0/Classes.genruntimeconfig.cache
